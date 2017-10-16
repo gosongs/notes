@@ -13,4 +13,4 @@ alias note="cd /Users/go_songs/study/notes; vv ."
 ## 目录
 JavaScript
   + [关于JSON.stringify()的几个问题](./JavaScript/关于JSON.stringify()的几个问题.md)
-  + [JavaScript 中的 || 和 &&](./JavaScript/JavaScript 中的 || 和 &&.md)
+  + [JavaScript中的逻辑运算符](./JavaScript/JavaScript中的逻辑运算符.md)
